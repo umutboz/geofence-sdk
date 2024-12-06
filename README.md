@@ -1,5 +1,4 @@
 ## Geofence SDK
-[![Product Name Screen Shot][product-screenshot]]()
 
 Geofence SDK supports a Geofence component that works with a variety of Geofence geolocation providers. This article shows how to use  Geofence component in your code.
 
@@ -40,11 +39,6 @@ Use this space to show useful examples of how a project can be used. Additional 
     ])
    ```
    
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
